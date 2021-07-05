@@ -24,7 +24,7 @@ PCB1 Hardware specification
 Name : Cerberus_001
 
 Introduction :
-    Cerberus001 is a gerneral purpose network control card which the size is
+    Cerberus001 is a general purpose network control card which the size is
  very small for mobil use. On board processor is Intel StrongARM SA1110 206M
  Hz with 64 MB SDRAM and 16MB flash. One 10base ethernet controller is
  equipped on board for network. The control card can receive or transmit the
@@ -128,7 +128,7 @@ PCB2 Hardware specification
 Name : Cerberus_002
 
 Introduction :
-    Cerberus002 is a versatile network input module for Cerverus001 which
+    Cerberus002 is a versatile network input module for Cerberus001 which
  contains 1 ethernet, 1 ISDN and 1 analog Modem network input.
 
 Features :
@@ -188,7 +188,7 @@ Datasheet: [media/LTM04C380Kv10.pdf](media/LTM04C380Kv10.pdf)
 
 Displaying the main/daughter-board bus connector.  
 The mainboard contains all the digital components, the extended board the function specific components.  
-There were design plans to use radio components making it one of the first smart phones.
+There were design plans to use radio components making it one of the first smartphones.
 
 ![lcd-jewelcase](media/block1.gif) ![lcd-jewelcase](media/block2.gif)
 
