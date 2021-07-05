@@ -5,7 +5,7 @@ image: assets/favimage-675x472.jpg
 ---
 
 \[Click on the image to view it in a higher resolution\]  
-[![teaser](assets/favimage-675x472.jpg)](media/cerberus-hcc-2001.jpg)
+[![teaser](assets/favimage-675x472.jpg)](media/cerberus-hcc-2001.jpg)  
 \[Cerberus as it was presented at the 2001 edition of the HCC fair\]
 
 # cerberus
