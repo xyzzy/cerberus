@@ -1,0 +1,13 @@
+navbar_entries:
+  - title: "showcase"
+    url: https://xyzzy.github.io
+
+  - title: "cerberus <div class=\"xyzzy-mark\"></div>"
+    url: https://github.com/xyzzy/cerberus
+
+footer_entries:
+  - title: "showcase"
+    url: https://xyzzy.github.io
+
+  - title: "cerberus <div class=\"xyzzy-mark\"></div>"
+    url: https://github.com/xyzzy/cerberus
